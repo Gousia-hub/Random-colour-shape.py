@@ -21,11 +21,6 @@ for shape_side_n in range(3, 11):
     tim.color(random.choice(colours))
     draw_shape(shape_side_n)
 
-# for i in range(1, 51):
-#     tim.forward(10)
-#     tim.penup()
-#     tim.forward(10)
-#     tim.pendown()
 
 
 screen = Screen()
